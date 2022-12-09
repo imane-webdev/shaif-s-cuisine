@@ -214,6 +214,10 @@ body {
     color: var(--color-accent-200);
     cursor: pointer;
 }
+.main-btn.same:hover {
+    background-color: var(--color-primary-300);
+    color: var(--color-primary-100);
+}
 
 /* LINKS */
 .main-link {
